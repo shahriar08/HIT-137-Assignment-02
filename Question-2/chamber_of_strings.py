@@ -14,6 +14,7 @@ def process_string(s):
 s = '56aAww1984sktr235270aYmn145ss785fsq31D0'
 # Process the input string
 numbers_string, letters_string, even_numbers_ascii, uppercase_ascii = process_string(s)
+
 # Output
 print(f"Number substring: {numbers_string}")
 print(f"Letter substring: {letters_string}")
